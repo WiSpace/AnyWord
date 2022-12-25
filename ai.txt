@@ -1,0 +1,26 @@
+выведи\print num 1
+напечатай\print num 2
+покажи\print num 3
+скажи\print num 4
+создай переменную\var num 1
+запиши переменную\var num 2
+введи текст\input num 1
+получи текст\input num 2
+забери текст\input num 3
+спроси текст\input num 4
+бесконечные повторения\whiletrue num 1
+бесконечный цикл\whiletrue num 2
+повтори бесконечно раз\whiletrue num 3
+останови цикл\stop num 1
+стоп цикл\stop num 2
+выйди из цикла\stop num 3
+конец\stop num 4
+перейди к\jump 1
+прыгни к\jump 2
+зайди в\jump 3
+запусти\jump 4
+перейди последнему\jumpl
+прыгни конец\jumpl 2
+если равно\ifequal
+если больше\ifmax
+если меньше\ifmin
