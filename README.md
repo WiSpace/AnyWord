@@ -21,7 +21,7 @@ git clone https://github.com/WiSpace/AnyWord.git
 - Для загрузки библиотек посетите сайт https://awlib.wsm001.repl.co/ со списком библиотек и их описанием. Установка: awlib --install lib_name
 - Помощь: awlib -h
 
-Использование awcon (написание библиотек для AnyWord на Python):
+# Использование awcon (написание библиотек для AnyWord на Python):
 - В начале файла с библиотекой напишите:
 ```py
 import awcon
