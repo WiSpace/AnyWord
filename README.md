@@ -8,18 +8,18 @@ git clone https://github.com/WiSpace/AnyWord.git
 - Добавьте папку anyword в PATH
 
 # Использование AnyWord:
-- Для запуска кода: anyword path/to/file.aw
-- Помощь: anyword -h
+- Для запуска кода: `anyword path/to/file.aw`
+- Помощь: `anyword -h`
 - Файл awl:
 Необязательный файл, со списком библиотек для импорта. По стандарту anyword ищет файлы awl с названием main.awl или таким же названием, как у aw файл. Например если файл называется test.aw, anyword будет искать test.awl или main.awl в директории с файлом test.aw.
 
-Вы так же можете написать anyword --libfile path/to/file.awl.
+Вы так же можете написать `anyword --libfile path/to/file.awl`.
 
 В данном файле библиотеки пишутся через новую строку.
 
 # Использование AWLIB (пакетный менеджер):
-- Для загрузки библиотек посетите сайт https://awlib.wsm001.repl.co/ со списком библиотек и их описанием. Установка: awlib --install lib_name
-- Помощь: awlib -h
+- Для загрузки библиотек посетите сайт https://awlib.wsm001.repl.co/ со списком библиотек и их описанием. Установка: `awlib --install lib_name`
+- Помощь: `awlib -h`
 
 # Использование awcon (написание библиотек для AnyWord на Python):
 - В начале файла с библиотекой напишите:
